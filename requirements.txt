@@ -1,0 +1,14 @@
+# Core Requirements for SMS Bomber
+requests==2.31.0
+colorama==0.4.6
+pyfiglet==0.8.post1
+
+# Optional but recommended
+# For better performance and additional features
+urllib3==2.0.7
+certifi==2023.7.22
+charset-normalizer==3.3.0
+idna==3.4
+
+# For development and debugging
+# pip install -r requirements.txt --upgrade
